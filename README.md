@@ -1,6 +1,6 @@
 # numerical_methods
 This is the project of my numerical analysis lesson that i coded in c language. This contains 10 numerical methods:
-1.Bisection
+1.Bisection\n
 2.Regula-Falsi
 3.Newton-Raphson
 4.Inverse NxN Matrix
